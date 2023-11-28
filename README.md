@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Horváth</h1>
-<h3 align="center">I am self taught front-end web developer from Slovakia, currently based in Brno. I'm looking for my first job in this industry.</h3>
+<h3 align="center">I am self taught front-end web developer from Slovakia, currently based in Brno.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
