@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Horváth</h1>
-<h3 align="center">I am self taught front-end web developer from Slovakia, currently based in Brno. I'm looking for my first job in this industry.</h3>
+<h3 align="center">I am self taught front-end web developer from Slovakia, currently based in Brno.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-horvath8&label=Profile%20views&color=0e75b6&style=flat" alt="adam-horvath8" /> </p>
 
